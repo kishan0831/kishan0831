@@ -63,7 +63,7 @@
 
 ### 🔹 **3. Portfolio Website (HTML/CSS)**
 🌐 Live Link:  
-➡️ https://kishan0831.github.io  
+➡️ https://github.com/kishan0831/github.io
 **Highlights:**  
 - Modern one-page portfolio  
 - Clean, responsive, project showcase  
